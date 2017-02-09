@@ -1,0 +1,18 @@
+
+@import (reference) "variable.less";
+@import (reference) "color.less";
+
+#wraper{
+        color: @cbg;
+}
+
+#header{
+    color:@cbg;
+}
+
+#logo{
+     color:@cbg;
+}
+#nav{
+ color:@cbg;
+}
