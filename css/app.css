@@ -1,15 +1,30 @@
-#wraper {
+#wrapper {
   width: 980px;
+  margin: auto;
+  text-align: center;
+}
+#wrapper img {
+  width: 150px;
+  height: 150px;
 }
 #header {
-  color: #000000;
+  height: 200px;
 }
 #logo {
   width: 150px;
+  height: 150px;
+  float: left;
 }
 #nav {
-  color: #000000;
+  width: 100%;
+  height: 46px;
+  float: left;
 }
-div {
-  border: solid 1px #000000;
+.titulo {
+  width: 500px;
+  height: 150px;
+  float: left;
+}
+article {
+  height: 400px;
 }
