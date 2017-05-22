@@ -28,13 +28,6 @@
 article {
   height: 400px;
 }
-#face{
-  width: 150px;
-  height: 150px
-}
-
-
-
-div{
-  border: solid 1px;
+.float {
+  float: left;
 }
