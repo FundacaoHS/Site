@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Project</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2026 02:44:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comunidade</title>
+      <link>https://example.org/tags/comunidade/</link>
+      <pubDate>Mon, 16 Mar 2026 02:44:00 +0000</pubDate>
+      <guid>https://example.org/tags/comunidade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fundacao-Hs</title>
+      <link>https://example.org/tags/fundacao-hs/</link>
+      <pubDate>Mon, 16 Mar 2026 02:44:00 +0000</pubDate>
+      <guid>https://example.org/tags/fundacao-hs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hack</title>
+      <link>https://example.org/tags/hack/</link>
+      <pubDate>Mon, 16 Mar 2026 02:44:00 +0000</pubDate>
+      <guid>https://example.org/tags/hack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hackerspace</title>
+      <link>https://example.org/tags/hackerspace/</link>
+      <pubDate>Mon, 16 Mar 2026 02:44:00 +0000</pubDate>
+      <guid>https://example.org/tags/hackerspace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jaragua-Do-Sul</title>
+      <link>https://example.org/tags/jaragua-do-sul/</link>
+      <pubDate>Mon, 16 Mar 2026 02:44:00 +0000</pubDate>
+      <guid>https://example.org/tags/jaragua-do-sul/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
